@@ -1,2 +1,2 @@
-Something something everything
+Something something nothing
 And another something
